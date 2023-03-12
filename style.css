@@ -84,3 +84,40 @@ p {
     border: none;
 }
 
+.second {
+    padding: 30px 150px;
+}
+
+.title2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin-bottom: 40px;
+}
+
+.secondcontainer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.imagecontainer {
+display: flex;
+flex-direction: column;
+flex-basis: 160px;
+}
+
+.titlecontainer {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    max-width: 160px;
+    height: 200px;
+}
+
+.subtext {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
